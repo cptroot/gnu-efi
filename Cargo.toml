@@ -1,0 +1,7 @@
+[package]
+name = "gnu_efi"
+version = "0.1.0"
+authors = ["Evan Davis <edavis@caltech.edu>"]
+
+[dependencies]
+libc = { version = "0.2", default-features = false }
